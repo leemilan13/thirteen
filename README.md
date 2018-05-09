@@ -9,9 +9,8 @@ Step 1: Open
 Step 2: Install
 Step 3: 
 
-# How to Test 
-
 # How to Run Automated Test 
+Dont do anything Stupid!
 
 # Built With
 Codelnighter - Web Framework
